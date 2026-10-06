@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Dunk Panda",
+        "description": "Tênis clássico que remete ao basquete e ao skate dos anos 80.",
+        "price": 850,
+        "image": "NKP",
+        "category": "sneaker",
+        "feedback": "5 estrelas"
+    },
+    {
+        "id": 2,
+        "name": "ADI200",
+        "description": "Tênis contemporanêo com uma pegada mais jovem.",
+        "price": 800,
+        "image": "ADI200",
+        "category": "sneaker",
+        "feedback": "4.5 estrelas"
+    },
+    {
+        "id": 3,
+        "name": "Nike Jordan 1",
+        "description": "Tênis da marca do marcante jogador Michael Jordan.",
+        "price": 900,
+        "image": "NJ1",
+        "category": "sneaker",
+        "feedback": "5 estrelas"
+    },
+    {
+        "id": 4,
+        "name": "Adidas Campus",
+        "description": "Tênis baixo com muito estilo.",
+        "price": 650,
+        "image": "AC",
+        "category": "sneaker",
+        "feedback": "5 estrelas"
+    },
+    {
+        "id": 5,
+        "name": "Yeezy Slide",
+        "description": "Chinelo moderno com design minimalista.",
+        "price": 900,
+        "image": "YS",
+        "category": "slide",
+        "feedback": "3.5 estrelas"
+    },
+    {
+        "id": 6,
+        "name": "Nike Slide",
+        "description": "Chinelo moderno com design mais robusto.",
+        "price": 200,
+        "image": "NS",
+        "category": "slide",
+        "feedback": "5 estrelas"
+    },
+    {
+        "id": 7,
+        "name": "Adidas Slide",
+        "description": "Chinelo moderno com design mais leve.",
+        "price": 220,
+        "image": "AS",
+        "category": "slide",
+        "feedback": "5 estrelas"
+    },
+    {
+        "id": 8,
+        "name": "Puma Slide",
+        "description": "Chinelo moderno com design mais exagerado.",
+        "price": 150,
+        "image": "PS",
+        "category": "slide",
+        "feedback": "5 estrelas"
+    }
+
+]
